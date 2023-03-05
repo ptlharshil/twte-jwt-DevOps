@@ -1,5 +1,5 @@
 # twte-jwt-DevOps
-This application was deployed on AWS (CodeBuid, ECR, ECS, EC2) using Docker. The aim was to auto scale (scale in and scale out) based on a scheduled time to meet the demand of the users at peak time taking into consideration the overall cost of running the application. The result is AWS EC2 instances getting created and terminated on the specified time. Following are the screenshots of the AWS resources created and result of the project. 
+This application was deployed on AWS (CodeBuild, ECR, ECS, EC2) using Docker. The aim was to auto scale (scale in and scale out) based on a scheduled time to meet the demand of the users at peak time taking into consideration the overall cost of running the application. The result is AWS EC2 instances getting created and terminated on the specified time. Following are the screenshots of the AWS resources created and result of the project. 
 
 ![twitter landing page](https://user-images.githubusercontent.com/63247630/208024112-cd0d2954-da5f-42b4-a875-db696ebfd54d.jpg)
 
